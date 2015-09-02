@@ -1,4 +1,4 @@
-FROM azukiapp/erlang
+FROM eproxus/azukiapp-erlang
 MAINTAINER Azuki <support@azukiapp.com>
 
 ENV ELIXIR_VERSION 1.0.5-2
